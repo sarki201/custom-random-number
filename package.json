@@ -1,11 +1,16 @@
 {
   "name": "custom-random-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom random number generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "random",
+    "random numbers",
+    "customized random numbers"
+  ],
   "author": "Umar Sarki",
   "license": "ISC"
 }
