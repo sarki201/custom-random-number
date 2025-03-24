@@ -1,6 +1,6 @@
 {
   "name": "custom-random-number",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A custom random number generator",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,14 @@
   "keywords": [
     "random",
     "random numbers",
-    "customized random numbers"
+    "customized random numbers",
+    "bias numbers",
+    "biased numbers"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarki201/custom-random-number.git"
+  },
   "author": "Umar Sarki",
   "license": "ISC"
 }
